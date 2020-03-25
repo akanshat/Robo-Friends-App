@@ -1,4 +1,5 @@
 #Robo-Friends App
+
 A frontend application that displays random robots using Robohash webservice with dynamic search enabled.
 
 ### Installation
